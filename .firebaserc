@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tasks-manager-49c08": {
+      "hosting": {
+        "task-management": [
+          "tasks-manager-49c08"
+        ]
+      }
+    }
+  }
+}
